@@ -1,0 +1,110 @@
+[
+{
+  "description": "A vertical video opens on a close-up of a BMW wheel in a garage during a rainy day pit stop. A glowing red-hot brake disc is visible. A crew member removes the wheel. The camera pushes in, keeping the red-hot disc centered as the background transitions from the garage to a modern desk. The brake disc, now a lamp, sits on the desk, still glowing. The camera slowly zooms out.",
+  "style": "gritty, cinematic, modern",
+  "camera": "vertical 9:16 aspect ratio, close-up, push-in on subject, slow zoom-out, subject locked to center frame",
+  "lighting": "starts with dim, overcast garage light contrasted by the brake disc's intense red glow; transitions to soft, ambient indoor light where the lamp is the key light source",
+  "environment": "professional garage during rainfall, morphing into a clean, modern desk setting",
+  "elements": ["BMW wheel", "red-hot brake disc", "pit crew hands", "desk", "brake disc lamp"],
+  "motion": "wheel unscrews and is removed, camera pushes in, seamless environment transition, final slow zoom-out",
+  "ending": "brake disc lamp glowing on the desk with text overlay",
+  "text": "Get yours now",
+  "keywords": ["9:16", "Reels", "BMW", "automotive", "brake disc lamp", "transition ad", "product video"]
+},
+{
+  "description": "Macro of an ice-cold Red Bull can balancing on a rock ledge. The tab snaps; metallic wings burst out, flapping energy waves. The cliffside unfurls into a gravity-defying sports arena with mountain bikers, wingsuit flyers, and surfers on cloud-waves. No text.",
+  "style": "cinematic, extreme, surreal",
+  "camera": "starts extreme close, zooms out then corkscrews overhead",
+  "lighting": "sunrise glare turning to high-contrast daylight",
+  "environment": "mountain precipice transforming into multi-sport arena",
+  "elements": [
+    "Red Bull can (logo visible, condensation)",
+    "metallic wings",
+    "mountain bikers",
+    "wingsuit athletes",
+    "cloud-surf waves"
+  ],
+  "motion": "energy wings expand, terrain morphs, athletes appear mid-trick",
+  "ending": "Can foreground, arena roars behind. No text.",
+  "text": "none",
+  "keywords": ["Red Bull","extreme sports","energy burst","sunrise to day","no text"]
+},
+{
+  "description": "Ice-frosted Coca-Cola bottle on a red picnic blanket in summer park. Cap cracks; carbonated bubbles swirl into miniature hot-air balloons that lift picnic items into a floating festival—food stalls assemble mid-air, people appear cheering. No text.",
+  "style": "whimsical, pop-surreal",
+  "camera": "table-level push-in, then crane up with balloons",
+  "lighting": "golden afternoon sunlight",
+  "environment": "city park morphing into aerial picnic festival",
+  "elements": ["Coca-Cola bottle (label visible)", "fizz balloons", "levitating picnic basket", "floating food stalls", "mini stage"],
+  "motion": "bubbles form balloons, festival rises",
+  "ending": "bottle foreground, sky-festival behind",
+  "text": "none",
+  "keywords": ["16:9", "Coca-Cola", "summer festival", "balloon transformation", "no text"]
+
+},
+{
+  "description": "Static shot of a concrete floor. The Adidas three-stripe logo floats horizontally, bright white. Stripes unzip into three ribbons that weave together, knitting into a sleek football boot resting on a turf patch. No text.",
+  "style": "cinematic, urban sport",
+  "camera": "fixed low angle",
+  "lighting": "cool rim with spotlight from above",
+  "environment": "industrial backdrop fading to darkness",
+  "elements": [
+    "Adidas three-stripe logo",
+    "white fabric ribbons",
+    "football boot",
+    "synthetic turf patch"
+  ],
+  "motion": {
+    "type": "logo-to-fabric-to-object",
+    "details": "stripes unravel, weave into boot, turf sprouts beneath"
+  },
+  "ending": "Boot laces tighten themselves; light snap. Fade to black. No text.",
+  "audio": {
+    "voice_over": "none",
+    "music": "driving percussive beat",
+    "sfx": "fabric whip, weave snaps, turf rustle"
+  },
+  "text_overlay": "none",
+  "format": "16:9",
+  "keywords": [
+    "Adidas",
+    "football boot",
+    "logo knit",
+    "sport",
+    "cinematic"
+  ]
+},
+{ "description": "A large digital billboard sits above a metro entrance. As people walk past, colorful soundwaves ripple outward from their direction, synced to popular Spotify tracks. Each track has a visual theme—rap shows bold pulses, jazz flows in smooth curves. The billboard appears to ‘listen’ and react to its surroundings, pulsing with animated energy.", 
+"product": "Spotify", 
+"style": "audio-reactive, vibrant, surreal realism", 
+"camera": "stationary city intersection, side angle showing crowd and billboard", 
+"lighting": "twilight with bright LED glow", 
+"environment": "urban crosswalk with visible foot traffic and passing cars",
+ "motion": { "type": "animated waveform synced to motion and music", 
+            "details": "neon ribbons, particle trails, pulsing text snippets like lyrics" } },
+
+{
+  "description": "Beneath a pristine blue sky, a flawlessly synchronised swarm of colorful fruit pieces first weaves in the exact outline of a fruit juice bottle, holding the shape in mid-air, then the spirals tighten and the fruit pieces coalesce into a vibrant juice form that crystallises into the final bottle.",
+  "style": "cinematic, minimal, polished",
+  "camera": "begins with a smooth vertical crane shot from sky to swarm, glides through the spiraling fruit pieces outlining the bottle shape, then continues in a continuous tracking move as they merge into liquid juice and gracefully settles into a centered close-up on the revealed bottle",
+  "lighting": "soft, natural daylight with a delicate rim light outlining the bottle’s edges and highlighting the juice’s vibrant glow",
+  "environment": "expansive sky with a gentle gradient, minimalist and uncluttered",
+  "elements": [
+    "sleek, choreographed swarm of colorful fruit pieces (e.g., orange slices, berries, apple chunks) in tight spirals",
+    "fruit juice bottle (sleek, transparent hourglass shape with vibrant multicolored juice)",
+    "bright orange flip-top ‘NO MESS CAP’",
+    "colorful label with a playful fruit basket design and a cheerful fruit mascot"
+  ],
+  "motion": "the swarm first traces the precise contours of the bottle in mid-air, holding the outline momentarily; spirals then tighten uniformly until the fruit pieces seamlessly merge into a vibrant juice form, which then solidifies into the bottle",
+  "ending": "polished hero shot of the bottle hovering mid-air, label and cheerful fruit mascot in crisp focus, with subtle reflection beneath",
+  "text": "none",
+  "keywords": [
+    "outline reveal",
+    "sleek swirl",
+    "minimalist sky",
+    "harmonised motion",
+    "product precision",
+    "hero bottle"
+  ]
+}
+]
